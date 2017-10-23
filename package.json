@@ -1,0 +1,32 @@
+{
+  "name": "hjs-getopt",
+  "version": "1.0.0",
+  "description": "This is a JS port of GNU getopt",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornorm/hjs-getopt.git"
+  },
+  "keywords": [
+    "GNU",
+    "getopt",
+    "LongOpt",
+    "Getopt"
+  ],
+  "author": "Aime Biendo <abiendo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ornorm/hjs-getopt/issues"
+  },
+  "homepage": "https://github.com/ornorm/hjs-getopt#readme",
+  "devDependencies": {
+    "hjs-cmd": "^1.0.0",
+    "hjs-core": "^1.0.1"
+  }
+}
