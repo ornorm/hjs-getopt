@@ -1,6 +1,6 @@
 {
   "name": "hjs-getopt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a JS port of GNU getopt",
   "main": "index.js",
   "directories": {
