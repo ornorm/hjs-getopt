@@ -25,7 +25,7 @@
     "url": "https://github.com/ornorm/hjs-getopt/issues"
   },
   "homepage": "https://github.com/ornorm/hjs-getopt#readme",
-  "devDependencies": {
+  "dependencies": {
     "hjs-cmd": "^1.0.0",
     "hjs-core": "^1.0.1"
   }
